@@ -1,0 +1,44 @@
+{
+    "source": {
+        "config": {
+            "eventUpload": false,
+            "eventUploadTS": 1589456075925
+        },
+        "id": "1YOLZw9L4Esc8Hly1KhX2Yb7777",
+        "name": "stark-user-frontend",
+        "writeKey": "1YOLZwiZPN5iIEop4wxbZ8s6666",
+        "enabled": true,
+        "sourceDefinitionId": "1TW48i2bIzEl1HPf825cEznffff",
+        "workspaceId": "1YNrhR21bQh9opcYC3weJJ4sccc",
+        "deleted": false,
+        "createdAt": "2020-02-27T13:05:52.730Z",
+        "updatedAt": "2020-05-14T11:34:35.933Z",
+        "sourceDefinition": {
+            "id": "1TW48i2bIzEl1HPf825cEznffff",
+            "name": "Javascript",
+            "createdAt": "2019-11-12T12:39:19.885Z",
+            "updatedAt": "2019-11-12T12:39:19.885Z"
+        },
+        "connections": [
+            {
+                "id": "1YONf8vfxVyPm2we2rC2Cqy7777",
+                "sourceId": "1YOLZw9L4Esc8Hly1KhX2Yb7777",
+                "destinationId": "1YONezfc9wDt5A0Mb86xTAqHHHH",
+                "enabled": true,
+                "deleted": true,
+                "createdAt": "2020-02-27T13:23:00.052Z",
+                "updatedAt": "2020-05-13T08:05:08.791Z"
+            },
+            {
+                "id": "1Zf1UdfpsCEYPSTzMmLMCPZ0000",
+                "sourceId": "1YOLZw9L4Esc8Hly1KhX2Yb7777",
+                "destinationId": "1Zf1UcB5ZbTWuvBz7No2uszbbbb",
+                "enabled": true,
+                "deleted": false,
+                "createdAt": "2020-03-26T09:35:51.786Z",
+                "updatedAt": "2020-04-03T10:29:36.730Z"
+            }
+        ],
+        "destinations": []
+    }
+}
